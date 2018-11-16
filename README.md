@@ -20,3 +20,11 @@ All software a government needs to run a country
   - VAT registration
 - Vehicle registry
 - Land registry
+- Transportation
+  - Roads
+  - Rails
+  - City transit
+- Postal system
+- Education system
+- Environment protection
+- Police, firefighters, detectives, etc
